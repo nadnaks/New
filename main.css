@@ -1,0 +1,38 @@
+body {
+	background: linear-gradient(to right, #1488CC , #2B32B2);
+}
+header {
+	font-family: arial; 
+	background-color: 176ECA;
+	padding: 15px 15px 15px 15px; 
+}
+
+header h1{
+	margin: 0;
+	color: white;
+	display: inline;
+	padding-right: 20px;
+}
+
+nav ul {
+	margin: 0;
+	padding-left: 15px;
+	display: inline;
+}
+nav ul li{
+	color: white;
+	list-style-type: none;
+	display: inline-block;
+	background: none;
+	padding-right: 20px;
+
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: D9E1E5;
+}
+
+
